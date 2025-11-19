@@ -18,10 +18,10 @@ Currently exploring modern technologies to improve my development workflow and p
 
 ## 🚀 What I'm Doing Right Now  
 - 🌱 Learning **Next.js**  
-- ⚙️ Working with **React, Express, MongoDB**  
-- 📚 Exploring **Backend APIs** & **Authentication Systems**  
-- 🛠 Building personal projects to strengthen the MERN stack  
-- 🎯 Enhancing skills in **problem-solving & clean code**  
+- ⚙️ Working with **React, Express & MongoDB**  
+- 🔐 Exploring **Authentication & Backend APIs**  
+- 🛠 Building personal MERN projects  
+- 🎯 Improving in **clean code & problem-solving**  
 
 ---
 
@@ -45,9 +45,36 @@ Currently exploring modern technologies to improve my development workflow and p
 
 ---
 
-## 🛠 Skills  
+# 🛠 Skills (Category-wise)
+
+### 🔹 Frontend Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,php,mysql,git,github,linux,bootstrap,figma,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>
+
+### 🔹 Backend Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,nestjs" />
+</p>
+
+### 🔹 Database & ORM  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### 🔹 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,postman" />
+</p>
+
+### 🔹 UI/UX  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### 🔹 Testing & Automation  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 
 ---
@@ -70,4 +97,3 @@ Currently exploring modern technologies to improve my development workflow and p
 </p>
 
 ---
-
