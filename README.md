@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img src="https://via.placeholder.com/1200x300?text=MD.+Ashraful+Islam+-+MERN+Stack+Developer" width="100%" />
+<p align="center">
+  <img src="BANNER_LINK_HERE" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm MD. Ashraful Islam</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
@@ -11,41 +13,21 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a passionate MERN Stack developer with a strong interest in building dynamic, scalable and user-friendly web applications.  
-Currently exploring modern technologies to improve my development workflow and problem-solving skills.
+I'm a passionate MERN Stack developer focused on building scalable, user-friendly, modern web applications.  
+Currently learning new technologies to improve my full-stack development workflow.
 
 ---
 
 ## 🚀 What I'm Doing Right Now  
 - 🌱 Learning **Next.js**  
-- ⚙️ Working with **React, Express & MongoDB**  
+- ⚙️ Working with **React, Express, MongoDB**  
+- 🚀 Building a **tourism project**  
 - 🔐 Exploring **Authentication & Backend APIs**  
-- 🛠 Building personal MERN projects  
-- 🎯 Improving in **clean code & problem-solving**  
+- 🎯 Consistently improving **clean code & problem-solving**  
 
 ---
 
-## 📫 Contact Me  
-**Email:** imroser65@gmail.com  
-
----
-
-## 🌐 Connect with Me  
-<p>
-<a href="https://dev.to/@ashrafulislam65" target="_blank">
-  <img src="https://skillicons.dev/icons?i=devto" height="40" />
-</a>
-<a href="https://linkedin.com/in/md-ashraful-islam-02a552397" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://kaggle.com/rafiimrose" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
-</a>
-</p>
-
----
-
-# 🛠 Skills (Category-wise)
+## 🛠 Skills  
 
 ### 🔹 Frontend Development  
 <p align="left">
@@ -54,12 +36,12 @@ Currently exploring modern technologies to improve my development workflow and p
 
 ### 🔹 Backend Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
 ### 🔹 Database & ORM  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🔹 Tools & Platforms  
@@ -72,10 +54,25 @@ Currently exploring modern technologies to improve my development workflow and p
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🔹 Testing & Automation  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium" />
+---
+
+## 🌐 Connect with Me  
+<p>
+<a href="https://linkedin.com/in/md-ashraful-islam-02a552397" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://dev.to/ashrafulislam65" target="_blank">
+  <img src="https://skillicons.dev/icons?i=devto" height="40" />
+</a>
+<a href="https://kaggle.com/rafiimrose" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
+</a>
 </p>
+
+---
+
+## 📫 Contact Me  
+**Email:** imroser65@gmail.com  
 
 ---
 
@@ -97,3 +94,9 @@ Currently exploring modern technologies to improve my development workflow and p
 </p>
 
 ---
+
+## 📌 Pinned Projects  
+*(Add at least 3 pinned repos from GitHub UI)*
+
+---
+
