@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_LINK_HERE" width="100%" />
+  <img src="https://i.ibb.co.com/v4PhGyBq/Chat-GPT-Image-Nov-19-2025-08-01-27-AM.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD. Ashraful Islam</h1>
