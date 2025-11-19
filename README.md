@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/zWtTVRRt/Chat-GPT-Image-Nov-19-2025-08-53-28-AM.png" width="100%" />
+  <img src="https://i.ibb.co/zWtTVRRt/Chat-GPT-Image-Nov-19-2025-08-53-28-AM.png" width="100%" height="50%" />
 </p>
 
 
